@@ -1,4 +1,4 @@
-# Weather Prediction System
+# Weather Forecasting Model
 
 ## Project Overview
 
