@@ -154,17 +154,6 @@ weather-forecasting-model/
 
 ---
 
-## Future Improvements
-
-- Time-series forecasting using LSTM models
-- Weather prediction with XGBoost and Random Forest
-- Interactive weather dashboard
-- Real-time weather forecasting API
-- Hyperparameter optimization
-- Multi-location forecasting
-
----
-
 ## License
 
 This project is licensed under the MIT License.
